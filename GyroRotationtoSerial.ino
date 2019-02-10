@@ -34,6 +34,7 @@ void loop() {
   Serial.print(rotY);
   Serial.print(".");
   Serial.println(rotZ);
+  Serial.println(".");
   
   delay(100);
    
